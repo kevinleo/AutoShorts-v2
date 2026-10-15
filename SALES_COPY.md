@@ -42,7 +42,7 @@ no subscription — your own hardware does the work.
 - YouTube OAuth (5-minute setup, full walkthrough in README)
 
 **What you get**
-- Full source (MIT), `requirements.txt` (5 deps), `.env.example`
+- Full source (MIT), `requirements.txt` (6 deps), `.env.example`
 - Step-by-step README: llama.cpp setup, OAuth, cron
 - Working daily-loop script + knowledge-base skeleton
 - The exact quality-gate + cross-check logic that keeps filler off your channel
