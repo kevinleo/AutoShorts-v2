@@ -1,0 +1,6 @@
+edge-tts>=7.0
+requests>=2.31
+openai>=1.30
+pillow>=10.0
+yt-dlp>=2024.10.0
+numpy>=1.24

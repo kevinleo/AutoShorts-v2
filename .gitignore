@@ -1,0 +1,14 @@
+.venv/
+__pycache__/
+*.log
+output/
+kb/kb.db
+kb/taste_profile.json
+kb/cookies/
+*.json
+!kb/wiki/**/*.md
+.env
+.topic_pick.log
+.topic_state
+FAILED_UPLOAD.txt
+failure_logs/
